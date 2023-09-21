@@ -19,3 +19,15 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+
+https://gist.github.com/gilbertalgordo
+
+[![Build and Deploy to GKE](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/google.yml/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/google.yml)
+
+[![CodeQL](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/github-code-scanning/codeql)
+
+[![Microsoft C++ Code Analysis](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/msvc.yml/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/msvc.yml)
+
+[![pages-build-deployment](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/pages/pages-build-deployment)
+
+[![PSScriptAnalyzer](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/powershell.yml)
