@@ -31,3 +31,5 @@ https://gist.github.com/gilbertalgordo
 [![pages-build-deployment](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/pages/pages-build-deployment)
 
 [![PSScriptAnalyzer](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/extra-keyboards-for-chrome-os/actions/workflows/powershell.yml)
+# Pay Transparency
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3904d473-0113-3d87-82e8-1c8faf4c8a8d
